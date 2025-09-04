@@ -109,6 +109,7 @@ public class Program()
 
 
         Console.WriteLine();
+        Thread.Sleep(1000);
     }
 
     public void PrintArray() {
